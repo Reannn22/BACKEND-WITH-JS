@@ -1,0 +1,13 @@
+{
+    "name": "nama-proyek",
+    "version": "1.0.0",
+    "description": "Deskripsi proyek",
+    "main": "index.js",
+    "type": "module",
+    "scripts": {
+      "start": "node index.js"
+    },
+    "author": "Nama Anda",
+    "license": "ISC"
+  }
+  
